@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Morse Message</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #0f0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      font-size: 3em;
+      font-family: monospace;
+    }
+  </style>
+</head>
+<body>
+  .... . .-.. .--. / -- .
+</body>
+</html>
